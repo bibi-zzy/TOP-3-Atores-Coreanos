@@ -25,4 +25,10 @@ img{
     max-width: 50%;
     height: 6cm;
 }
+div{
+    color: rgb(12, 12, 12);
+}
+.coreano{
+    color: firebrick;
+}
 
