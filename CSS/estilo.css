@@ -29,6 +29,11 @@ div{
     color: rgb(12, 12, 12);
 }
 .coreano{
-    color: firebrick;
+    color: rgb(133, 0, 0);
 }
-
+h4{
+    color: mediumblue;
+}
+em{
+    color: rgb(133, 0, 0);
+}
