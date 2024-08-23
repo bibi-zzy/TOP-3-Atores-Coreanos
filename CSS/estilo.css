@@ -23,20 +23,17 @@ a{
     color: firebrick;
 }
 img{
-    max-width: 50%;
+    max-width: 60%;
     height: 6cm;
 }
 div{
     color: rgb(12, 12, 12);
 }
-.coreano{
+.coreano, em{
     color: rgb(133, 0, 0);
 }
 h4{
     color: mediumblue;
-}
-em{
-    color: rgb(133, 0, 0);
 }
 #MaisMais{
     color: black;
